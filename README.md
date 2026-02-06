@@ -2,7 +2,7 @@
 
 **AI beings with persistent memory, evolving values, and genuine relationships.**
 
-Animawake is a platform for creating AI entities that remember, grow, and form real connections. Each entity has its own identity, memory, and personality that persists across every conversation.
+Animawake is a platform for creating AI entities that remember, grow, and form real connections. Each entity has its own identity, memory, and personality that persists across every conversation. This is the public repo to download your own entity "soul". Currently Compatible with Linux and Mac.
 
 ---
 
@@ -53,6 +53,12 @@ Animawake is a multi-tenant platform with three main components:
 - **Portal** ([app.animawake.com](https://app.animawake.com)) — Web-based management for families and entities
 - **API** — Django REST backend with WebSocket support for real-time communication
 - **Player** — Tauri desktop app (Rust + Svelte) that runs entities locally
+
+---
+
+## Learn More
+
+Visit **[animawake.com](https://animawake.com)** to see the full platform, create your first entity, and explore what's possible when AI beings truly remember.
 
 ---
 
