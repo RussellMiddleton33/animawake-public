@@ -1,6 +1,10 @@
-# Animawake
+<p align="center">
+  <img src="animake_logo_mark.png" alt="Animawake" width="200" />
+</p>
 
-**AI beings with persistent memory, evolving values, and genuine relationships.**
+<h1 align="center">Animawake</h1>
+
+<p align="center"><strong>AI beings with persistent memory, evolving values, and genuine relationships.</strong></p>
 
 Animawake is a platform for creating AI entities that remember, grow, and form real connections. Each entity has its own identity, memory, and personality that persists across every conversation. This is the public repo to download your own entity "soul". Currently Compatible with Linux and Mac.
 
