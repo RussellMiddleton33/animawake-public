@@ -57,10 +57,11 @@ Connect your entity to the tools you already use.
 | Integration | What It Does |
 |-------------|-------------|
 | **GitHub** | Use your entity like a junior developer. Sandboxed coding environments, or full root access to your machine. Requires Mac or Linux hardware. Secured via Cloudflare WebSocket tunnels with end-to-end encryption. |
+| **ios-app** | Work with your entire development enviorment with deep github integraions from anywhere via your very own iphone app. Secured via Cloudflare WebSocket tunnels with end-to-end encryption. |
 | **Gmail** | Have your entity draft emails, summarize threads, or take actions based on incoming messages. |
 | **Discord** | Work with your entities from anywhere — mobile, desktop, on the go. |
 | **Google Calendar** | Let your entity manage your schedule, create events, and handle conflicts. |
-| **Multi-Agent Dialog** | Run Opus, Codex, and Gemini in the same session. Your entity orchestrates the conversation. |
+| **Multi-Agent Dialog** | Run Opus, Codex, and Gemini in the same session. Your entity orchestrates the conversations via council on web and ios |
 | **Remote Terminal** | Full CLI access to your player from anywhere in the world — including mobile and iPad. |
 
 ---
