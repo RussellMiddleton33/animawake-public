@@ -83,6 +83,7 @@ Animawake is a multi-tenant platform with three main components:
 - **Portal** ([app.animawake.com](https://app.animawake.com)) — Web-based management for families and entities
 - **API** — Django REST backend with WebSocket support for real-time communication
 - **Player** — Desktop app (Rust + Svelte) that runs entities locally
+- **IOS App** — Free Apple IOS App so you can work anywhere, anytime as if you were sitting down at your desktop via direct cli claude code, gemeni and codex support.
 
 ---
 
